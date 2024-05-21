@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 |Platform & Library & Package|![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|
 
 Connect_me
-Github / Tistory /[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](http://www.naver.com)
+Github / Tistory /[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Yujin-Lee-705fa3aae4a047fda5abf6cb0689625d?pvs=4)
 
 
 
