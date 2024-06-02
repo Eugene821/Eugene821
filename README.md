@@ -68,3 +68,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene821&layout=compact)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugene821)](https://github.com/Eugene821/github-readme-stats)
