@@ -32,12 +32,12 @@ I`m Yujin. Welcome to my page
 ### Project
 |주제|내용|링크|
 |---|---|---|
-|주차 관제시스템|자동차 번호판 확인 및 주차 차단기 작동 시스템|https://github.com/almondgood/Parking-System.git|
+|주차 관제시스템|자동차 번호판 확인 및 주차 차단기 작동 시스템|[Parking_System](https://github.com/almondgood/Parking-System.git)|
 |AVR 세탁기|ATmega128을 활용한 세탁기||
-|AVR Line tracer|ATmega128을 이용한 라인트레이서 사륜구동 RC카||https://github.com/Eugene821/AVR_RC_Car_Project.git|
-|Tangram Play|Roboflow, OpenCV, Qt를 이용한 인공지능 칠교놀이|https://github.com/min9710/-Tangram_play_project.git|
-|Find Me|GPS추적이 가능한 미아방지 팔찌|https://github.com/Eugene821/FindMe.git|
-|스마트 구급상자|상처를 보여주거나 아픈 증상을 말하면 해당되는 구급약품을 제공하는 스마트 구급상자|https://github.com/Eugene821/smart_first_aid_box.git|
+|AVR Line tracer|ATmega128을 이용한 라인트레이서 사륜구동 RC카||[AVR_RC_Car_Project](https://github.com/Eugene821/AVR_RC_Car_Project.git)|
+|Tangram Play|Roboflow, OpenCV, Qt를 이용한 인공지능 칠교놀이|[Tangram_play_project](https://github.com/min9710/-Tangram_play_project.git)|
+|Find Me|GPS추적이 가능한 미아방지 팔찌|[FindMe](https://github.com/Eugene821/FindMe.git)|
+|스마트 구급상자|상처를 보여주거나 아픈 증상을 말하면 해당되는 구급약품을 제공하는 스마트 구급상자|[smart_first_aid_box](https://github.com/Eugene821/smart_first_aid_box.git)|
 
 <!--
 ## Hi there 👋
