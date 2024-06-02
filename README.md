@@ -39,6 +39,16 @@ I`m Yujin. Welcome to my page
 |Find Me|GPS추적이 가능한 미아방지 팔찌|[FindMe](https://github.com/Eugene821/FindMe.git)|
 |스마트 구급상자|상처를 보여주거나 아픈 증상을 말하면 해당되는 구급약품을 제공하는 스마트 구급상자|[smart_first_aid_box](https://github.com/Eugene821/smart_first_aid_box.git)|
 
+
+* * *
+### Learning
+|info|link|
+|---|---|
+|Linux BSP||
+|iot_socket||
+|Linux Qt||
+
+
 <!--
 ## Hi there 👋
 I`m Yujin. Welcome to my Page
