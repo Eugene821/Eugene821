@@ -28,6 +28,16 @@ I`m Yujin. Welcome to my page
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" /> Github / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Tistory / <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Dizzy" width="25" height="25" /> Notion
 
 
+### Project
+|주제|내용|링크|
+|---|---|---|
+|주차 관제시스템||https://github.com/almondgood/Parking-System.git|
+|AVR 세탁기|ATmega128을 활용한 세탁기||
+|AVR Line tracer|ATmega128을 이용한 라인트레이서 사륜구동 RC카||
+|Tangram Play|Roboflow, OpenCV, Qt를 이용한 인공지능 칠교놀이|https://github.com/min9710/-Tangram_play_project.git|
+|Find Me|GPS추적이 가능한 미아방지 팔찌||
+|스마트 구급상|상처를 보여주거나 아픈 증상을 말하면 해당되는 구급약품을 제공하는 스마트 구급상자||
+
 <!--
 ## Hi there 👋
 I`m Yujin. Welcome to my Page
