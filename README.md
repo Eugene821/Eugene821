@@ -33,7 +33,7 @@ I`m Yujin. Welcome to my page
 |주제|내용|링크|
 |---|---|---|
 |주차 관제시스템|자동차 번호판 확인 및 주차 차단기 작동 시스템|[Parking_System](https://github.com/almondgood/Parking-System.git)|
-|AVR 세탁기|ATmega128을 활용한 세탁기||
+|AVR 세탁기|ATmega128을 활용한 세탁기|https://github.com/Eugene821/AVR_Washing_Machine.git|
 |AVR Line tracer|ATmega128을 이용한 라인트레이서 사륜구동 RC카|[AVR_RC_Car_Project](https://github.com/Eugene821/AVR_RC_Car_Project.git)|
 |Tangram Play|Roboflow, OpenCV, Qt를 이용한 인공지능 칠교놀이|[Tangram_play_project](https://github.com/min9710/-Tangram_play_project.git)|
 |Find Me|GPS추적이 가능한 미아방지 팔찌|[FindMe](https://github.com/Eugene821/FindMe.git)|
