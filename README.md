@@ -48,9 +48,9 @@ I`m Yujin. Welcome to my page
 ### Learning
 |info|link|
 |---|---|
-|Linux BSP|[link](https://github.com/Eugene821/Linux_BSP)|
-|Linux Qt|[link](https://github.com/Eugene821/Linux_Qt)|
-|iot_socket|[link](https://github.com/Eugene821/iot_socket)|
+|Linux BSP|[Linux BSP](https://github.com/Eugene821/Linux_BSP)|
+|Linux Qt|[Linux Qt](https://github.com/Eugene821/Linux_Qt)|
+|iot_socket|[iot_socket](https://github.com/Eugene821/iot_socket)|
 
 
 
